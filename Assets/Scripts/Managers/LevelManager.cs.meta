@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a37d0137f09540d458a5672e0c482d11
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefBlueBlock: {fileID: 6857855248926807933, guid: 2010bde3298e6c244801cf1ebeffc55f, type: 3}
+  - prefOrangeBlock: {fileID: 6857855248926807933, guid: 524a85d3ecdc493498ea035f6f062429, type: 3}
+  - prefEmptyBlock: {fileID: 6857855248926807933, guid: cbb2220c406a9fd43b47e6b6b842f705, type: 3}
+  - prefWall: {fileID: 2074323647450475256, guid: 1c5bf58af728acb4491359f3cae81a2e, type: 3}
+  - prefSwitcher: {fileID: 6857855248926807933, guid: 17eaecbf2ad1e1847b0a0349748abf81, type: 3}
+  executionOrder: -20
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56d795cb00b4af943bb4c3be59a75acc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundBoxSelect: {fileID: 8300000, guid: 834c9b2a5c0b8514eb07792191c8070b, type: 3}
+  - soundBoxDestroy: {fileID: 8300000, guid: de625822dd795cc4f8d84cdd71115ef5, type: 3}
+  - soundBoxMove: {fileID: 8300000, guid: 77ffe5c6d70d56d43be0e02bfbb77f54, type: 3}
+  - soundBoxCancel: {fileID: 8300000, guid: 6178ef3e739510f4b8a49a069444ea92, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

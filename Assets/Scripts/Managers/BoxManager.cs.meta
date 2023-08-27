@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 51e972fa89189af4f981aaa9f58c5237
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundBoxDestroy: {instanceID: 0}
+  - soundBoxMove: {fileID: 8300000, guid: 5b602c6a984a4974493a65812df2fe85, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
